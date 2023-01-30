@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer. Front-end Developer.
 -----------------------------------
 
-A highly motivated Front-end Developer with a passion for crafting seamless, visually appealing interfaces that elevate user experience. Adept at leveraging the latest technologies to bring cutting-edge functionality and responsive design to life. Excited to bring my skills and creativity to dynamic projects and drive digital success.
+I am a highly motivated front-end developer with a passion for creating seamless and visually appealing interfaces that enhance the user experience. I am skilled in using the latest technologies to implement cutting-edge functionality and responsive design. I am eager to bring my skills and creativity to dynamic projects and contribute to digital success.
 
 ### Skills 
 <p align="left">
