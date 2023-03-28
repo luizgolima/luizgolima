@@ -9,7 +9,7 @@ Hey there and welcome to my GitHub profile! I'm Luiz, a front-end and mobile dev
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com) 
 * 🧠  I'm learning SwiftUi and iOS development 
-* 🤝  I'm open to collaborating on front-end and mobile apps
+* 🤝  I'm open to collaborating on front-end and mobile projects
 
 ### Skills  
 
