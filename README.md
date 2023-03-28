@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luiz Lima
 =================================================================================================================================
 
-Web Developer. Front-end Developer.
------------------------------------
+Software Developer | Front-end | Mobile iOS
+-------------------------------------------
 
-I am a highly motivated front-end developer with a passion for creating seamless and visually appealing interfaces that enhance the user experience. I am skilled in using the latest technologies to implement cutting-edge functionality and responsive design. I am eager to bring my skills and creativity to dynamic projects and contribute to digital success.
+Hello, welcome to my profile! I am Luiz, a front-end and mobile developer who is passionate about creating amazing user interfaces and providing the best possible experience for users. With my technical skills, I am always seeking effective solutions that provide excellent results.
 
 ### Skills 
 <p align="left">
