@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luiz Lima
 =================================================================================================================================
 
-Front-end and Mobile iOS Developer
+Web and Mobile Developer | Full-stack Enthusiast
 ----------------------------------
 
 Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile developer with a strong passion for creating efficient and scalable solutions. I am constantly seeking opportunities for learning and growth. Thanks for checking out my profile!
