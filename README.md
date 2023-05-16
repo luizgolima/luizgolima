@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end and Mobile iOS Developer
 ----------------------------------
 
-Hey there and welcome to my GitHub profile! I'm Luiz, a front-end and mobile developer who loves creating awesome user interfaces and providing top-notch user experiences. I'm always on the lookout for new technical skills and effective solutions that will help me deliver great results. Thanks for checking out my profile!
+Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile developer with a strong passion for creating efficient and scalable solutions. I am constantly seeking opportunities for learning and growth. Thanks for checking out my profile!
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com) 
-* 🧠  I'm learning SwiftUi and iOS development 
-* 🤝  I'm open to collaborating on front-end and mobile projects
+* 🧠  I'm learning SwiftUi and Flutter
+* 🤝  I'm open to collaborating on web and mobile projects
 
 ### Skills  
 
