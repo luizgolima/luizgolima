@@ -8,7 +8,7 @@ Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile 
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com) 
-* 🧠  I'm learning SwiftUi and Flutter
+* 🧠  I'm learning SwiftUI and Flutter
 * 🤝  I'm open to collaborating on web and mobile projects
 
 ### Skills  
