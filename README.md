@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile 
 *   🌍  I'm based in São Paulo, Brazil.
 *   ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com)
 *   🧠  I'm learning Full Stack Development and DevOps.
-*   🤝  I'm open to collaborating on TypeScript or Python projects.
+*   🤝  I'm open to collaborating on web and mobile projects.
 
 ### Skills
 
@@ -18,11 +18,3 @@ Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile 
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/luizgolima" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luizgolima" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/luizgolima"><img src="https://github-readme-stats.vercel.app/api?username=luizgolima&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="luizgolima's GitHub stats" /></a>
-<a href="http://www.github.com/luizgolima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luizgolima&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/luizgolima" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgolima&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
