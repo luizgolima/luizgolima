@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer | Full-stack Enthusiast
 ------------------------------------------------
 
-Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated web and mobile developer with a strong passion for creating efficient and scalable solutions. I am constantly seeking opportunities for learning and growth. Thanks for checking out my profile!
+Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated developer with a strong passion for creating efficient and scalable solutions. I am constantly seeking opportunities for learning and growth. Thanks for checking out my profile!
 
 *   🌍  I'm based in São Paulo, Brazil.
 *   ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com)
