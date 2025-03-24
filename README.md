@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub page! I'm Luiz Lima, a dedicated developer with 
 *   🌍  I'm based in São Paulo, Brazil.
 *   ✉️  You can contact me at [lima.luizgo@gmail.com](mailto:lima.luizgo@gmail.com)
 *   🧠  I'm learning Java and Go development and tools like Git, Docker, Kubernetes, Terraform, AWS, etc.
-*   🤝  I'm open to collaborating on web and mobile projects.
+*   🤝  I'm open to collaborating on back-end projects.
 
 ### Skills
 
