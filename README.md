@@ -38,15 +38,6 @@ I am a back-end developer with **almost 4 years of experience** specializing in 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgolima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgolima&layout=compact&theme=tokyonight&hide=html,css,scss" />
-</p>
-
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/luizgolima" target="_blank">
